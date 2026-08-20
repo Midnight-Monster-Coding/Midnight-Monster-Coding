@@ -57,8 +57,12 @@
 ### 📈 Activity & Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Midnight-Monster-Coding&theme=radical&background=0D1117&hide_border=true&ring=0CC0DF&fire=0CC0DF&currStreakLabel=0CC0DF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" height="175"/>
+  <!-- Dynamic GitHub Trophy Showcase -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Midnight-Monster-Coding&theme=matrix&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  
   <br/><br/>
+  
+  <!-- Contribution Waveform Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midnight-Monster-Coding&bg_color=0D1117&color=0CC0DF&line=0CC0DF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 </div>
 
