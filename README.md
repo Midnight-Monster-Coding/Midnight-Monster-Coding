@@ -57,8 +57,9 @@
 ### 📈 Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Midnight-Monster-Coding&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=0cc0df&icon_color=0cc0df&text_color=c9d1d9" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight-Monster-Coding&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0cc0df&text_color=c9d1d9" height="155"/>
+  <img src="https://streak-stats.demolab.com?user=Midnight-Monster-Coding&theme=radical&background=0D1117&hide_border=true&ring=0CC0DF&fire=0CC0DF&currStreakLabel=0CC0DF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" height="175"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midnight-Monster-Coding&bg_color=0D1117&color=0CC0DF&line=0CC0DF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 </div>
 
 <!-- Bottom Border Wave -->
