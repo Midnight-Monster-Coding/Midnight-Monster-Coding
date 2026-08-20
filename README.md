@@ -57,11 +57,13 @@
 ### 📈 Activity & Stats
 
 <div align="center">
-  <!-- Dynamic GitHub Trophy Showcase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Midnight-Monster-Coding&theme=matrix&no-bg=true&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-  
-  <br/><br/>
-  
+  <!-- Dynamic Live Stats Badges (100% Uptime via Shields.io) -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Midnight-Monster-Coding&color=0cc0df&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/github/stars/Midnight-Monster-Coding?style=for-the-badge&color=0cc0df&labelColor=161b22&logo=github&logoColor=0cc0df" alt="Total Stars" />
+    <img src="https://img.shields.io/github/followers/Midnight-Monster-Coding?style=for-the-badge&color=0cc0df&labelColor=161b22&logo=github&logoColor=0cc0df" alt="Followers" />
+  </p>
+
   <!-- Contribution Waveform Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midnight-Monster-Coding&bg_color=0D1117&color=0CC0DF&line=0CC0DF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 </div>
