@@ -1,11 +1,13 @@
 <div align="center">
 
-<!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0cc0df,100:161b22&height=180&section=header&text=Midnight%20Monster%20Coding&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<!-- Terminal Groot Motion GIF -->
+<img src="./groot_terminal.gif" width="480" alt="Terminal Avatar" />
+
+<br/>
 
 <!-- Motion Text / Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0CC0DF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Developer+%7C+Real-Time+Systems;WebRTC+P2P+Architectures+%26+Media+Pipelines;Creator+of+DarkBeats%2C+Shutter+Soul+%26+RippleDrop;Crafting+High-Performance+Web+%26+3D+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0CC0DF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Developer+%7C+Real-Time+Systems;WebRTC+P2P+Architectures+%26+Media+Pipelines;Creator+of+DarkBeats%2C+RippleDrop+%26+Shutter+Soul;Crafting+High-Performance+Web+%26+3D+UIs" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -57,16 +59,13 @@
 ### 📈 Activity & Stats
 
 <div align="center">
-  <!-- Dynamic Live Stats Badges (100% Uptime via Shields.io) -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Midnight-Monster-Coding&color=0cc0df&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/github/stars/Midnight-Monster-Coding?style=for-the-badge&color=0cc0df&labelColor=161b22&logo=github&logoColor=0cc0df" alt="Total Stars" />
     <img src="https://img.shields.io/github/followers/Midnight-Monster-Coding?style=for-the-badge&color=0cc0df&labelColor=161b22&logo=github&logoColor=0cc0df" alt="Followers" />
   </p>
 
-  <!-- Contribution Waveform Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midnight-Monster-Coding&bg_color=0D1117&color=0CC0DF&line=0CC0DF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 </div>
 
-<!-- Bottom Border Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0cc0df,100:0d1117&height=90&section=footer" width="100%"/>
